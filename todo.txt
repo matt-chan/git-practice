@@ -4,3 +4,5 @@ Sleep
 drink water
 exercise
 read papers
+wake up again
+work
